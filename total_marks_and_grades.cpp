@@ -1,5 +1,6 @@
 //Ayush Shambharkar 
 //23070123034
+//Aim - to take the total marks of the user and printing their expected grades.
 
 #include<iostream>
 using namespace std;
@@ -9,14 +10,16 @@ int main()
     int maths,phy,python,C;
     int totalM;
 
-    /*cout<<"Enter your maths marks: ";
+    /*
+    cout<<"Enter your maths marks: ";
     cin>>maths;                                     
     cout<<"Enter your physics marks: ";
     cin>>phy;                                               //taking input of all marks separately
     cout<<"Enter your python marks: ";
     cin>>python;
     cout<<"Enter your C marks: ";
-    cin>>C;*/
+    cin>>C;
+    */
 
     cout<<"Enter your marks in the sequence(maths,physics,python,C programming): ";         //taking all marks input in one statement
     cin>>maths>>phy>>python>>C;
@@ -53,11 +56,13 @@ int main()
     }
 }
 
-//output
-/*Enter your marks in the sequence(maths,physics,python,C programming): 80 87 98 79
+/*
+OUTPUT:
+Enter your marks in the sequence(maths,physics,python,C programming): 80 87 98 79
 You have scored: 86
 A grade.
 
 Enter your marks in the sequence(maths,physics,python,C programming): 80 99 97 81
 You have scored: 89
-A grade.*/
+A grade.
+*/
