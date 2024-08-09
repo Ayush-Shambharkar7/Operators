@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - to print tables using a for loops statements.
+
 #include<iostream>
 using namespace std;
 
@@ -20,6 +24,7 @@ int main(){
 }
 
 /*
+OUTPUT:
 enter the value of num:16
 16 * 1 = 16
 16 * 2 = 32
