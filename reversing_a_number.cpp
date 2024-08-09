@@ -1,5 +1,6 @@
 //Ayush Shambharkar
 //23070123034
+//Aim - to verify the reversing of PRN.
 
 #include<iostream>
 using namespace std;
@@ -8,7 +9,7 @@ int main()
 {
     int prn,a;
 
-    cout<<"Enter yout prn: ";
+    cout<<"Enter your prn: ";
     cin>>prn;
 
     while(prn>0)
@@ -19,8 +20,11 @@ int main()
     }
 }
 
-/*Enter yout prn: 23070
+/*
+OUTPUT: 
+Enter your prn: 23070
 07032
 
 Enter yout prn: 123034
-430321*/
+430321
+*/
