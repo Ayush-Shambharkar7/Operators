@@ -1,5 +1,6 @@
 //Ayush Shambharkar
 //23070123034
+//Aim - to verify the coordinate lies in which quadrant.
 
 #include<iostream>
 using namespace std;
@@ -30,10 +31,13 @@ int main()
     }
 }
 
-/*Enter a number: 5
+/*
+OUTPUT:
+Enter a number: 5
 Enter a number: -5
 It is in 4th quadrant
 
 Enter a number: -8
 Enter a number: -9
-It is in 3rd quadrant.*/
+It is in 3rd quadrant.
+*/
