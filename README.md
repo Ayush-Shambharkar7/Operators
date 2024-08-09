@@ -1,12 +1,13 @@
 # Operators
 
-### Experiment 3
+Experiment_3
 
-**Aim -** 
-Performing Arithematic Operations using C++ Operators.
-
+## AIM - 
+To use operators to add two numbers.
+## Software Used
+VS Code
 ## Theory
-Arithmetic operators are symbols used in CPP programming to perform arithematic operations on variables and their values. They are important to writing expressions and making decisions in code.
+Airthmetic operators are symbols used in programming to perform operations on variables and values. They are important to writing expressions and making decisions in code.
 
 ### Types: 
 Addition (+): Adds two operands.
@@ -22,24 +23,23 @@ Example: a % b
 
 ## Algorithm 
 
-1. **Start**
+* Start
+* Declare three integer variables: a, b, and c.
+* Prompt and Read First Number
 
-2. **Input**
-   - Prompt user to enter integer `a`.
-   - Read `a` from user.
-   - Prompt user to enter integer `b`.
-   - Read `b` from user.
+* Output: "Enter num 1: ".
+Read the input value and store it in variable a.
+Prompt and Read Second Number
 
-3. **Calculate**
-   - Compute `sum = a + b`.
-   - Compute `sub = a - b`.
-   - Compute `prdt = a * b`.
-   - Compute `div = a / b`.
+* Output: "Enter num 2: ".
+Read the input value and store it in variable b.
+Calculate the Sum
 
-4. **Output**
-   - Display `sum`.
-   - Display `sub`.
-   - Display `prdt`.
-   - Display `div`.
+* Compute the sum of a and b and store the result in variable c.
+Output the Result
 
-5. **End**
+* Output the result: "The No. is: " followed by the value of c.
+* End
+
+## Conclusion 
+We learnt to use the basic arithmetic operators in C++.
