@@ -1,5 +1,6 @@
 //Ayush Shambharkar 
 //23070123034
+//Aim - to verify whether the give number by the user is positive or negative.
 
 #include<iostream>
 using namespace std;
@@ -19,8 +20,11 @@ int main()
     }
 }
 
-/*Enter a number: 5
+/*
+OUTPUT:
+Enter a number: 5
 It is a positive number.
 
 Enter a number: -6
-It is a negative number.*/
+It is a negative number.
+*/
